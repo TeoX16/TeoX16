@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TeoX16
 - 👀 I’m interested in IoT, AWS, Mobile Apps, Cloud based services
-- 🌱 I’m currently learning Python/C#
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me teodor.terziev16@gmail.com
 
